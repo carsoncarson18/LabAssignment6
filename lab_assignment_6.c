@@ -2,8 +2,8 @@
 	Carson Davie
 	COP3205 - Torosdagli
 	Lab Assignment 6
-*/]
-[]
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
